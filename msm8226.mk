@@ -164,9 +164,9 @@ PRODUCT_PACKAGES += \
     init.recovery.qcom.rc \
     ueventd.qcom.rc
 
-# Stlport
+# Sensors
 PRODUCT_PACKAGES += \
-    libstlport
+    sensors.msm8226
 
 # Thermal
 PRODUCT_COPY_FILES += \
