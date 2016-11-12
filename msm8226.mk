@@ -101,10 +101,6 @@ PRODUCT_PACKAGES += \
     ethertypes \
     libebtc
 
-# DRM
-PRODUCT_PACKAGES += \
-    libshims_wvm
-
 # FM
 PRODUCT_PACKAGES += \
     FMRadio \
