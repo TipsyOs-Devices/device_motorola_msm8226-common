@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "SlimRoms/kernel_motorola_msm8226",
+    "target_path": "kernel/motorola/msm8226"
+  },
+  {
+    "repository": "SlimRoms/android_external_bson",
+    "target_path": "external/bson"
+  },
+  {
+    "repository": "SlimRoms/packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
+  }
+]
